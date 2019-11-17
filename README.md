@@ -12,3 +12,4 @@
 - [5 向量化进阶](https://github.com/myplanB/QuantitativeTransaction/blob/master/5%20%E5%90%91%E9%87%8F%E5%8C%96%E8%BF%9B%E9%98%B6.ipynb)
 - [6 函数](https://github.com/myplanB/QuantitativeTransaction/blob/master/6%20%E5%87%BD%E6%95%B0.ipynb)
 - [7 回归运算](https://github.com/myplanB/QuantitativeTransaction/blob/master/7%20%E5%9B%9E%E5%BD%92%E8%BF%90%E7%AE%97.ipynb)
+- [8 pandas 基础](https://github.com/myplanB/QuantitativeTransaction/blob/master/8%20pandas%20-%20%20series%E4%BB%8B%E7%BB%8D.ipynb)
