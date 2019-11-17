@@ -10,3 +10,5 @@
 - [3 布尔值索引](https://github.com/myplanB/QuantitativeTransaction/blob/master/2%20numpy%20%E6%93%8D%E4%BD%9C%EF%BC%88%E7%B4%A2%E5%BC%95%E3%80%81%E5%88%87%E7%89%87%EF%BC%89.ipynb)
 - [4 向量化](https://github.com/myplanB/QuantitativeTransaction/blob/master/4%20%E5%90%91%E9%87%8F%E5%8C%96.ipynb)
 - [5 向量化进阶](https://github.com/myplanB/QuantitativeTransaction/blob/master/5%20%E5%90%91%E9%87%8F%E5%8C%96%E8%BF%9B%E9%98%B6.ipynb)
+- [6 函数](https://github.com/myplanB/QuantitativeTransaction/blob/master/6%20%E5%87%BD%E6%95%B0.ipynb)
+- [7 回归运算](https://github.com/myplanB/QuantitativeTransaction/blob/master/7%20%E5%9B%9E%E5%BD%92%E8%BF%90%E7%AE%97.ipynb)
