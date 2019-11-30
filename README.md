@@ -13,3 +13,5 @@
 - [6 函数](https://github.com/myplanB/QuantitativeTransaction/blob/master/6%20%E5%87%BD%E6%95%B0.ipynb)
 - [7 回归运算](https://github.com/myplanB/QuantitativeTransaction/blob/master/7%20%E5%9B%9E%E5%BD%92%E8%BF%90%E7%AE%97.ipynb)
 - [8 pandas 基础](https://github.com/myplanB/QuantitativeTransaction/blob/master/8%20pandas%20-%20%20series%E4%BB%8B%E7%BB%8D.ipynb)
+- [9 pandas-DataFrame的创建](https://github.com/myplanB/QuantitativeTransaction/blob/master/9%20pandas-DataFrame%E7%9A%84%E5%88%9B%E5%BB%BA.ipynb)
+- [10 10 DataFrame 修改数据操作](https://github.com/myplanB/QuantitativeTransaction/blob/master/10%20DataFrame%20%20%E4%BF%AE%E6%94%B9%E6%95%B0%E6%8D%AE%E6%93%8D%E4%BD%9C.ipynb)
